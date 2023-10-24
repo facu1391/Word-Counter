@@ -27,3 +27,6 @@ Esta aplicación en React permite a los usuarios ingresar texto en un área de t
 - **Diseño Responsivo:** La aplicación está diseñada con un diseño responsive para funcionar en dispositivos de diferentes tamaños, incluyendo pantallas de escritorio y dispositivos móviles.
 
 - **Fuentes de Google:** La aplicación utiliza la fuente "Poppins" de Google Fonts para una tipografía atractiva.
+
+## ENLACE DE NAVEGACION
+* [ https://word-counter-ruddy-gamma.vercel.app/ ]
